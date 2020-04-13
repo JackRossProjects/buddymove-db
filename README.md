@@ -9,3 +9,5 @@ Then write the following queries (also with sqlite3) to test:
 Count how many rows you have - it should be 249!
 How many users who reviewed at least 100 Nature in the category also reviewed at least 100 in the Shopping category?
 (Stretch) What are the average number of reviews for each category?
+
+!['buddymovescript'](https://github.com/JackRossProjects/buddymove-db/blob/master/buddymove_script.png?raw=true)
